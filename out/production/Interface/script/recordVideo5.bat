@@ -1,0 +1,1 @@
+start /MIN "" "C:\Users\z.moszko\Documents\NetBeansProjects\Interface\src\script\recordVideo.bat"
